@@ -1,0 +1,10 @@
+.DS_Store
+dist
+MANIFEST
+*.pyc
+*.egg-info
+*.egg
+docs/build/
+env/
+.cache
+sample.py
