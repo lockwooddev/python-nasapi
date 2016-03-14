@@ -8,3 +8,4 @@ docs/build/
 env/
 .cache
 sample.py
+build/
